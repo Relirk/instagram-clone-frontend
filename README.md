@@ -1,5 +1,5 @@
 This application is using heroku buildpacks:
-    * create-react-app: https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack
+* create-react-app: mars/create-react-app
 
 
 _____
