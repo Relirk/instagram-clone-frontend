@@ -1,3 +1,8 @@
+This application is using heroku buildpacks:
+    * create-react-app: https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack
+
+
+_____
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
