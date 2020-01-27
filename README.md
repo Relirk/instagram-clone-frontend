@@ -11,7 +11,7 @@ This application is using heroku buildpacks:
 
 ### Start API
 [Clone the project](https://github.com/Relirk/instagram-clone-backend) or test
-[the live API](https://rlk-instagram-clone-frontend.herokuapp.com/)
+[the live API](https://rlk-instagram-clone-backend.herokuapp.com/)
 
 ### Running Locally
 ```sh
